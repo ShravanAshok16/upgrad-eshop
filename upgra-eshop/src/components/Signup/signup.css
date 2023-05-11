@@ -1,0 +1,51 @@
+div{
+    display:grid;
+    padding-right:50px;
+    justify-content:center;
+
+}
+h1{
+padding-top:150px;
+text-align:center;
+}
+#firstNameId {
+width:150%;
+margin-bottom:5px;
+}
+#lastNameId {
+width:150%;
+margin-bottom:5px;
+}
+#emailId {
+width:150%;
+margin-bottom:5px;
+}
+#newPasswordId{
+width:150%;
+margin-bottom:5px;
+}
+Button{
+width:125%;
+}
+#repeatPasswordId{
+width:150%;
+margin-bottom:5px;
+}
+#contactNumber{
+width:150%;
+margin-bottom:20px;
+}
+.mt-2{
+text-align:right;
+}
+.lock-icon{
+position: relative;
+        background: pink;
+        color: #ffffff;
+        padding:30px;
+        top:150px;
+        height:10px;
+        width:10px;
+        border-radius: 80%;
+        justify-align:center;
+}

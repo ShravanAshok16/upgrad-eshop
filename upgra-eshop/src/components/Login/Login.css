@@ -1,0 +1,23 @@
+div{
+    display:grid;
+    padding-right:50px;
+    justify-content:center;
+
+}
+h1{
+padding-top:150px;
+text-align:center;
+}
+
+#usernameId {
+width:150%;
+margin-bottom:5px;
+}
+
+#passwordId{
+width:150%;
+margin-bottom:20px;
+}
+Button{
+width:125%;
+}
